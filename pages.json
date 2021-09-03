@@ -8,10 +8,20 @@
       }
     }
   ],
+  // "easycom": {
+  //   "autoscan": true,
+  //   "custom": {
+  //     "van-(.*)": "@/components/vant/$1/*.vue"
+  //   }
+  // },
   "globalStyle": {
     "navigationBarTextStyle": "black",
     "navigationBarTitleText": "uni-app",
     "navigationBarBackgroundColor": "#F8F8F8",
     "backgroundColor": "#F8F8F8"
+    // "usingComponents": {
+    //   "van-button": "/wxcomponents/vant/dist/button/index",
+    //   "van-field": "/wxcomponents/vant/dist/field/index"
+    // }
   }
 }
